@@ -106,11 +106,11 @@ Pulled directly from each provider's own official pricing page (not from any com
 |---|---|---|
 | Exa | $7 per 1,000 requests (covers first 10 results; extra results/summaries billed separately) | $20 signup credit + $10/month recurring (~1,400 free searches/month) |
 | Keiro | $0.25 per 1,000 queries | 500 free credits/month, no card required |
-| Parallel | $1-$5 per 1,000 requests (10 results) | Up to 16,000 free requests to start |
-| Tavily | $8 per 1,000 (pay-as-you-go, $0.008/credit) down to $5 per 1,000 on the Growth plan ($500/mo, 100k credits) | 1,000 free credits/month |
-| Valyu | Varies by source: web $1.50/1k, open academic sources (arXiv/PubMed) $0.50/1k, financial data $8/1k, proprietary databases $30-50/1k | $10 in signup credits |
+| Parallel | $3 per 1,000 requests (10 results) | Up to 16,000 free requests to start |
+| Tavily | $8 per 1,000 requests (pay-as-you-go), lower at high volume | 1,000 free credits/month |
+| Valyu | $1.50 per 1,000 for web search; academic sources cheaper, proprietary databases cost more | $10 in signup credits |
 
-A few things worth noting: these are all list prices for the standard search endpoint specifically — deep research/answer-generation tiers cost more on every provider (not shown here), and Valyu's pricing varies a lot depending on which data source it pulls from, so its "true" cost depends heavily on your query mix. Keiro and Parallel were the cheapest for plain search at the volumes typically used for agent prototyping; Exa and Tavily sit in the $5-8/1k range; Valyu's web-search rate is competitive but its specialized/proprietary sources cost significantly more.
+A few things worth noting: these are all list prices for the standard search endpoint specifically — deep research/answer-generation tiers cost more on every provider (not shown here). Keiro and Valyu were the cheapest for plain search, Parallel sits in the middle, Exa and Tavily are the priciest of the five.
 
 ## Bench script
 
