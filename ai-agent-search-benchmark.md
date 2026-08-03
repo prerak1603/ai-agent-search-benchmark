@@ -32,6 +32,8 @@ Rated each provider's answers on: accuracy (was it correct), completeness (did i
 | Tavily | 8 | 8 | 8 | 7.5 |
 | Valyu | 8 | 7 | 7 | 7.5 |
 
+![Benchmark Comparison Across Metrics](grouped_benchmark_chart.png)
+
 ## Overview
 
 **Exa** gave the most consistently detailed, well-organized answers of the group, but the agent needed very explicit prompting (the exact tool name spelled out) to actually call it — natural phrasing kept triggering the wrong tool.
