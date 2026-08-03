@@ -98,6 +98,10 @@ Through the agent (includes the agent's own thinking time, not just the API):
 
 Pulled directly from each provider's own official pricing page (not from any competitor's comparison — every number below is sourced from the provider being described).
 
+![Price Comparison](price_chart.png)
+
+*(Chart uses midpoints of each provider's published price range for search — Keiro/Valyu/Parallel especially vary by plan/source, see table below for full ranges.)*
+
 | Provider | Search pricing | Free tier |
 |---|---|---|
 | Exa | $7 per 1,000 requests (covers first 10 results; extra results/summaries billed separately) | $20 signup credit + $10/month recurring (~1,400 free searches/month) |
