@@ -100,12 +100,12 @@ Pulled directly from each provider's own official pricing page (not from any com
 
 ![Price Comparison](price_chart.png)
 
-*(Chart uses midpoints of each provider's published price range for search — Keiro/Valyu/Parallel especially vary by plan/source, see table below for full ranges.)*
+*(Chart uses midpoints of each provider's published price range for search — Valyu/Parallel especially vary by plan/source, see table below for full ranges. Keiro's rate is a confirmed flat price.)*
 
 | Provider | Search pricing | Free tier |
 |---|---|---|
 | Exa | $7 per 1,000 requests (covers first 10 results; extra results/summaries billed separately) | $20 signup credit + $10/month recurring (~1,400 free searches/month) |
-| Keiro | ~$0.50-$1 per 1,000 queries depending on plan (1 credit/search, 3 credits for search+content) | 500 free credits/month, no card required |
+| Keiro | $0.25 per 1,000 queries | 500 free credits/month, no card required |
 | Parallel | $1-$5 per 1,000 requests (10 results) | Up to 16,000 free requests to start |
 | Tavily | $8 per 1,000 (pay-as-you-go, $0.008/credit) down to $5 per 1,000 on the Growth plan ($500/mo, 100k credits) | 1,000 free credits/month |
 | Valyu | Varies by source: web $1.50/1k, open academic sources (arXiv/PubMed) $0.50/1k, financial data $8/1k, proprietary databases $30-50/1k | $10 in signup credits |
